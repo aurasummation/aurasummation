@@ -4,8 +4,8 @@ Hi! I'm Sabre, a rookie developer currently learning and gaining mastery of codi
 
 Here's some information about me:
 
-- Personality Typology: ENTJ 1w2 so/sp 153 RCOEI
+- Personality Typology: ENTJ 3w2 so/sp 351 RCOAI
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
-- Age: 17
+- Age: 18
 
 [![Sabre's Github Stats](https://github-readme-stats.vercel.app/api?username=dukesabre&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
